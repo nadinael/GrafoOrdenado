@@ -11,7 +11,6 @@ using namespace std;
 class Grafo {
 private:
   vector<Vertice> vertices;
-  // vector<Aresta> arestas;
   int qtV;
   int arestas;
   int mat[6][6];
